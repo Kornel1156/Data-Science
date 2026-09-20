@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNWQ8kTa6xUWaYun36swy4f",
+      "authorship_tag": "ABX9TyPYf7MPD/sK1NgWE8fQ4L5Z",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -34,6 +34,44 @@
       },
       "outputs": [],
       "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "SciPy - Intro\n",
+        "SciPy to otwarta biblioteka programistyczna w języku Python, która jest używana do wykonywania zaawansowanych obliczeń naukowych i inżynieryjnych. Jest to część ekosystemu narzędzi do obliczeń naukowych w Pythonie i oferuje wiele funkcji do przetwarzania danych, analizy numerycznej, optymalizacji, statystyki, oraz wiele innych dziedzin naukowych i inżynieryjnych.\n",
+        "\n",
+        "\n",
+        "\n",
+        "Główne cechy i funkcje biblioteki SciPy:\n",
+        "\n",
+        "Moduły tematyczne: SciPy skupia się na różnych dziedzinach naukowych i inżynieryjnych, dlatego dostarcza modułów tematycznych, które zawierają funkcje i narzędzia związane z matematyką, fizyką, inżynierią, statystyką, optymalizacją, przetwarzaniem sygnałów i obrazów, oraz wieloma innymi dziedzinami.\n",
+        "\n",
+        "Zaawansowane obliczenia matematyczne: Biblioteka zawiera narzędzia do rozwiązywania równań różniczkowych, całkowania numerycznego, interpolacji, algebraicznych operacji macierzowych i wiele innych obliczeń matematycznych.\n",
+        "\n",
+        "Optymalizacja: SciPy dostarcza funkcje do optymalizacji numerycznej, co pozwala na rozwiązywanie problemów optymalizacyjnych, zarówno wypukłych, jak i nieliniowych.\n",
+        "\n",
+        "Przetwarzanie sygnałów i obrazów: Biblioteka oferuje narzędzia do przetwarzania sygnałów i obrazów, takie jak filtrowanie, transformacje Fouriera, analiza widma, oraz wiele innych operacji na sygnałach i obrazach.\n",
+        "\n",
+        "Statystyka: SciPy zawiera funkcje do statystycznej analizy danych, testowania hipotez, regresji, generowania rozkładów prawdopodobieństwa i wiele innych narzędzi statystycznych.\n",
+        "\n",
+        "Współpraca z NumPy: SciPy jest często używane w połączeniu z biblioteką NumPy do efektywnego manipulowania i analizy danych numerycznych.\n",
+        "\n",
+        "Wsparcie dla różnych formatów danych: Biblioteka umożliwia wczytywanie i zapisywanie danych z różnych formatów, takich jak pliki tekstowe, HDF5, MATLAB, NetCDF i wiele innych.\n",
+        "\n",
+        "Wsparcie dla rozwiązywania równań różniczkowych: SciPy oferuje wiele algorytmów i narzędzi do rozwiązywania równań różniczkowych zwyczajnych (ODE) i równań różniczkowych cząstkowych (PDE).\n",
+        "\n",
+        "Wsparcie dla równań nieliniowych: SciPy zawiera narzędzia do rozwiązywania równań nieliniowych za pomocą różnych algorytmów iteracyjnych.\n",
+        "\n",
+        "Aktywna społeczność: SciPy ma aktywną społeczność użytkowników i deweloperów, co oznacza, że istnieje wiele dostępnych źródeł, dokumentacji i pomocy online.\n",
+        "\n",
+        "\n",
+        "\n",
+        "SciPy jest często używane w dziedzinach takich jak nauka danych, inżynieria, fizyka, biologia, chemia, statystyka, inżynieria mechaniczna i wiele innych, gdzie zaawansowane obliczenia matematyczne są niezbędne do analizy i modelowania danych oraz rozwiązywania problemów naukowych i inżynieryjnych."
+      ],
+      "metadata": {
+        "id": "LEsaZSOSU6U6"
+      }
     }
   ]
 }
